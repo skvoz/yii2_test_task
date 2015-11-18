@@ -1,0 +1,35 @@
+[
+    {
+        "name": "skvoz/testpackage",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/skvoz/testpackage.git",
+            "reference": "3253b008bbb3c5415a92d0c988eeae63f3c42346"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/skvoz/testpackage/zipball/3253b008bbb3c5415a92d0c988eeae63f3c42346",
+            "reference": "3253b008bbb3c5415a92d0c988eeae63f3c42346",
+            "shasum": ""
+        },
+        "time": "2015-11-14 19:30:28",
+        "type": "library",
+        "installation-source": "source",
+        "license": [
+            "proprietary"
+        ],
+        "authors": [
+            {
+                "name": "skvoz",
+                "email": "skvoz.ne@gmail.com"
+            }
+        ],
+        "description": "test package",
+        "support": {
+            "source": "https://github.com/skvoz/testpackage/tree/master",
+            "issues": "https://github.com/skvoz/testpackage/issues"
+        }
+    }
+]
