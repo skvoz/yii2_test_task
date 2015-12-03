@@ -15,5 +15,19 @@
         <use-password>true</use-password>
       </ssh-properties>
     </data-source>
+    <data-source name="MySQL - ttinfo@localhost" uuid="db1d2f3e-2cf3-45fa-9836-b157847258d5">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>ttinfo.*</schema-pattern>
+      <default-schemas>ttinfo.*</default-schemas>
+      <ssh-properties>
+        <enabled>true</enabled>
+        <proxy-host>localhost</proxy-host>
+        <proxy-port>2222</proxy-port>
+        <secret-storage>master_key</secret-storage>
+        <user>vagrant</user>
+        <use-password>true</use-password>
+      </ssh-properties>
+    </data-source>
   </component>
 </project>

@@ -1,1 +1,1 @@
-{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/md101/Sites/vagrant/test-project","disabled":false},"vagrant-root":{"id":"vagrant-root","owner":"vagrant","group":"www-data","mount_options":["dmode=775,fmode=664"],"guestpath":"/vagrant","hostpath":"/Users/md101/Sites/vagrant/test-project","disabled":false}}}
+{"virtualbox":{"/var/www":{"mount_options":["dmode=777","fmode=666"],"guestpath":"/var/www","hostpath":"/Users/md101/Sites/vagrant/test-project","disabled":false}}}
