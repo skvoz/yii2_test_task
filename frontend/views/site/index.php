@@ -14,7 +14,7 @@ $this->title = 'My Yii Application';
                 <h2>Links</h2>
                 <p><a href="https://www.dropbox.com/s/u1f0h2khupnbzqv/sketch.png?dl=0">site sketch</a></p>
                 <p><a href="https://www.dropbox.com/s/z2gjfvtgsvfcvr2/specs.md?dl=0">requirements specification </a></p>
-                <p><a href="https://www.dropbox.com/s/z2gjfvtgsvfcvr2/specs.md?dl=0">github </a></p>
+                <p><a href="https://github.com/skvoz/yii2_test_task">github </a></p>
                 <h2>Details</h2>
 
                 <ul>
